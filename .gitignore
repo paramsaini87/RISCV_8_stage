@@ -1,0 +1,9 @@
+.DS_Store
+*.log
+*.tmp
+*.vvp
+*.vcd
+verif/build/
+__pycache__/
+output/
+sky130_out*/
