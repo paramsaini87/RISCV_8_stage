@@ -5,5 +5,14 @@
 *.vcd
 verif/build/
 __pycache__/
-output/
 sky130_out*/
+
+# Heavy files — kept local only, not pushed to git
+output/mag/
+output/mag_gds/
+output/odb/
+output/spef/min/
+output/spef/nom/
+output/sdf/max_ss_100C_1v60/
+output/sdf/min_ss_100C_1v60/
+output/sdf/nom_ss_100C_1v60/
